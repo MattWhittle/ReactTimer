@@ -1,4 +1,7 @@
 .top-bar {
+    .active {
+        font-weight: bold;
+    }
     background-color: $nav-background;
     .menu {
         background-color: $nav-background;
